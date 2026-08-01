@@ -1,0 +1,2 @@
+# Azure_LZ
+It contains AZURE BASIC LANDING ZONE
