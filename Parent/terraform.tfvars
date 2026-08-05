@@ -10,7 +10,7 @@ sto = {
 
 mayank05007 = {
 
-  rg      = "rg_mayank"
+  rg      = "rg_grv"
   location                 = "centralindia"
   act             = "Standard"
   art = "LRS"
